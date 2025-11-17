@@ -154,66 +154,18 @@ Bus-ing: 앱 기반 탑승 예약 + 자원봉사자 호출로 장벽 최소화
 지역 사회의 참여 문화 형성
 
 ## 🛠 Tech Stack
-<h2>🛠 Tech Stack</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>분야</th>
-      <th>사용 기술</th>
-      <th>설명</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>React.js</td>
-      <td>UI 구성, SPA 구조 구현</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>JavaScript / TypeScript</td>
-      <td>로직 구현 및 타입 안정성 확보</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>CSS / Styled-components</td>
-      <td>스타일링 및 컴포넌트 기반 디자인</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Naver Maps JavaScript API</td>
-      <td>지도 렌더링, 위치 추적, 장애물 마커, 길찾기 기능</td>
-    </tr>
-
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Node.js</td>
-      <td>서버 환경 구성</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Express</td>
-      <td>API 라우팅 및 서버 구축</td>
-    </tr>
-
-    <tr>
-      <td><strong>Development Tools</strong></td>
-      <td>Visual Studio Code</td>
-      <td>개발 환경</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Git / GitHub</td>
-      <td>버전 관리 및 협업</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>NPM, Vite Dev Server</td>
-      <td>패키지 관리 및 개발 서버 실행</td>
-    </tr>
-  </tbody>
-</table>
+| 분야 | 사용 기술 |
+|------|-----------|
+| **Frontend** | React.js |
+| | JavaScript / TypeScript |
+| | CSS / Styled-components |
+| | Naver Maps JavaScript API |
+| **Backend** | Node.js |
+| | Express |
+| **Development Tools** | Visual Studio Code |
+| | Git / GitHub |
+| | NPM, Vite Dev Server |
 
 
 ## 📦 Project Structure
