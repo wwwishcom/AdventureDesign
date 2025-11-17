@@ -155,17 +155,17 @@ Bus-ing: 앱 기반 탑승 예약 + 자원봉사자 호출로 장벽 최소화
 
 ## 🛠 Tech Stack
 
-| 분야 | 사용 기술 |
-|------|-----------|
-| **Frontend** | React.js |
-| | JavaScript / TypeScript |
-| | CSS / Styled-components |
-| | Naver Maps JavaScript API |
-| **Backend** | Node.js |
-| | Express |
-| **Development Tools** | Visual Studio Code |
-| | Git / GitHub |
-| | NPM, Vite Dev Server |
+| 분야 | 사용 기술 | 설명 |
+|------|-----------|------|
+| **Frontend** | React.js | UI 구성, SPA 구조 구현 |
+| | JavaScript / TypeScript | 로직 구현 및 타입 안정성 확보 |
+| | CSS / Styled-components | 스타일링 및 컴포넌트 기반 디자인 |
+| | Naver Maps JavaScript API | 지도 렌더링, 위치 추적, 장애물 마커, 길찾기 기능 |
+| **Backend** | Node.js | 서버 환경 구성 |
+| | Express | API 라우팅 및 서버 구축 |
+| **Development Tools** | Visual Studio Code | 개발 환경 |
+| | Git / GitHub | 버전 관리 및 협업 |
+| | NPM, Vite Dev Server | 패키지 관리 및 개발 서버 실행 |
 
 
 ## 📦 Project Structure
