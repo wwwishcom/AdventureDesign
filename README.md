@@ -52,9 +52,6 @@ Bus-ing은 이러한 문제를 해결하고자 시작되었습니다.
 - JavaScript
 - HTML / CSS
 
-### Backend
-- (사용 기술 입력)
-
 ### API
 - 공공데이터포털 버스 API
 - 지도 API (사용 시 입력)
